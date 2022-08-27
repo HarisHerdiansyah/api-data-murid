@@ -2,9 +2,9 @@
   "name": "latihan-json-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch ./src/db.json --port 8080"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
